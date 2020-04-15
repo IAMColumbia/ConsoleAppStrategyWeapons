@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleAppStrategyWeapons.Models.Weapons.Weapon">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Weapons.Sword">
+    <Position X="1.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\Sword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Weapons.WarHammer">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\WarHammer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Weapons.BFG">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\BFG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Weapons.ProjectileWeapon" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\ProjectileWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Weapons.Hand2Hand" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\Hand2Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ConsoleAppStrategyWeapons.Models.Weapons.IWeapon">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Weapons\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.83" />
+</ClassDiagram>

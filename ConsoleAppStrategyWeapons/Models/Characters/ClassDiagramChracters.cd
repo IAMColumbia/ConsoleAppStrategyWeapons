@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleAppStrategyWeapons.Models.Characters.Character">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACAAAAAAAABAQAAAAIAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Characters\Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Characters.Knight" Collapsed="true">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Characters\Knight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Characters.SpaceMarine" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Characters\SpaceMarine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppStrategyWeapons.Models.Characters.Dwarf" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Characters\Dwarf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ConsoleAppStrategyWeapons.Models.Characters.IDamageable">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Characters\IDamageable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.83" />
+</ClassDiagram>
